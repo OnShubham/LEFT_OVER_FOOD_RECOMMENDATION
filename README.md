@@ -1,5 +1,9 @@
 left over food recommedation for mumbaihacks hackathon 2023
-----------------
+The "Leftover Food Recommendation" project is designed to address the prevalent issue of food wastage in households. Aimed primarily at homemakers, this initiative seeks to provide practical solutions for utilizing leftover ingredients from previous meals to create innovative and appetizing dishes. 
+
+In many households, unconsumed food often ends up being discarded, contributing to both economic losses and environmental concerns. This project offers a user-friendly platform where homemakers can input the list of available leftovers, and the system generates personalized recipe recommendations based on the ingredients at hand. By offering creative and easy-to-follow recipes, the project aims to empower homemakers to transform surplus food into delicious and nutritious meals, reducing waste and promoting sustainable consumption habits.
+
+The project's core objective is to bridge the gap between reducing food wastage and enhancing culinary creativity. By leveraging technology to suggest inventive ways to repurpose leftovers, the "Leftover Food Recommendation" project envisions a positive impact on household food management, financial savings, and ecological sustainability. Ultimately, this initiative strives to empower homemakers to play a pivotal role in minimizing food wastage while embracing culinary exploration.
 
 Screenshot
 
